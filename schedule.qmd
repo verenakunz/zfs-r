@@ -1,0 +1,11 @@
+---
+title: "Kursübersicht"
+---
+
+| Woche | Präsenzeinheit | Thema |
+| ----- | -------------- | ----------- |
+| KW 39 | 27.09.2022     | Einführung in R, RStudio und R Markdown |
+| KW 40 | 04.10.2022     | Datenmanipulation und Datentransformation |
+| KW 41 | 11.10.2022     | Datenvisualisierung und explorative Datenanalyse |
+| KW 42 | 18.10.2022     | Regressionen |
+| KW 43 | 25.10.2022     | Abschluss |

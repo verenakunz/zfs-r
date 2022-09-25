@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Einführung in R"
+  navbar:
+    background: primary
+    pinned: true
+    right:
+      - href: index.qmd
+        text: Home
+      - schedule.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

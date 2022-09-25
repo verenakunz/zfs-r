@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mysite",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Kursübersicht",
+    "section": "",
+    "text": "Woche\nPräsenzeinheit\nThema\n\n\n\n\nKW 39\n27.09.2022\nEinführung in R, RStudio und R Markdown\n\n\nKW 40\n04.10.2022\nDatenmanipulation und Datentransformation\n\n\nKW 41\n11.10.2022\nDatenvisualisierung und explorative Datenanalyse\n\n\nKW 42\n18.10.2022\nRegressionen\n\n\nKW 43\n25.10.2022\nAbschluss"
+  }
+]
